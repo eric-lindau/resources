@@ -41,3 +41,4 @@
 * [Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 * [OAuth2 basics](https://medium.com/google-cloud/understanding-oauth2-and-building-a-basic-authorization-server-of-your-own-a-beginners-guide-cf7451a16f66)
 * [JWT the right way](https://stormpath.com/blog/jwt-the-right-way)
+* [Server-side service discovery](https://microservices.io/patterns/server-side-discovery.html)
