@@ -43,6 +43,7 @@
 * [OAuth2 basics](https://medium.com/google-cloud/understanding-oauth2-and-building-a-basic-authorization-server-of-your-own-a-beginners-guide-cf7451a16f66)
 * [JWT the right way](https://stormpath.com/blog/jwt-the-right-way)
 * [Server-side service discovery](https://microservices.io/patterns/server-side-discovery.html)
+* [Reactive extensions (Rx)](https://archive.codeplex.com/?p=rx)
 
 ## Hardware/Architecture
 * [x86 basics](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
