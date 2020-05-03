@@ -38,3 +38,4 @@
 
 ## DS&A
 * [Radix tree](https://en.wikipedia.org/wiki/Radix_tree)
+* [Huffman (lossless)](https://en.wikipedia.org/wiki/Huffman_coding)
