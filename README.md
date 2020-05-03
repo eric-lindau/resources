@@ -6,6 +6,9 @@
 * [Raft](https://raft.github.io/)
 * [SWIM membership](https://www.brianstorti.com/swim/)
 
+## Security
+* [shell-storm](http://shell-storm.org/shellcode/)
+
 ## Parallel Computing
 * [Learning SIMD (Rust)](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3)
 
