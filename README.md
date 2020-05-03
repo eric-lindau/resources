@@ -3,7 +3,8 @@
 * [Bounded Load Consistent Hashing](https://ai.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html?m=1)
 * [The Paper Trail](https://www.the-paper-trail.org/)
 * [FLP result (Paper Trail)](https://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/)
-* [Raft Consensus](https://raft.github.io/raft.pdf)
+* [Raft paper](https://raft.github.io/raft.pdf)
+* [Dynamo paper](http://bnrg.eecs.berkeley.edu/~randy/Courses/CS294.F07/Dynamo.pdf)
 
 ## Parallel Computing
 * [Learning SIMD (Rust)](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3)
