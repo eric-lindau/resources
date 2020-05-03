@@ -15,3 +15,6 @@
 ## Containers
 * [moby project](https://mobyproject.org/)
 
+## Virtualization
+* [Teaching Virtualization by Building a Hypervisor](http://www.cs.unc.edu/~porter/pubs/jos-vm.pdf)
+
