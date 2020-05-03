@@ -18,4 +18,5 @@
 ## Virtualization
 * [Teaching Virtualization by Building a Hypervisor](http://www.cs.unc.edu/~porter/pubs/jos-vm.pdf)
 * [Paravirtualization](https://www.sciencedirect.com/topics/computer-science/paravirtualization)
+* [Xen](https://wiki.xenproject.org/wiki/Main_Page)
 
