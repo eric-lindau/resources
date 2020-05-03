@@ -20,6 +20,7 @@
 ## Operating Systems
 * [OSDev](https://wiki.osdev.org/Main_Page)
 * [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
+* [mmapped IO](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch14s03.html)
 
 ## Programming Languages
 * [Haskell](http://learnyouahaskell.com/chapters)
