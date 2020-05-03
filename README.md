@@ -11,6 +11,7 @@
 
 ## Operating Systems
 * [OSDev](https://wiki.osdev.org/Main_Page)
+* [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
 
 ## Programming Languages
 * [Haskell](http://learnyouahaskell.com/chapters)
