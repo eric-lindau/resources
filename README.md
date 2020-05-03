@@ -21,3 +21,5 @@
 * [Paravirtualization](https://www.sciencedirect.com/topics/computer-science/paravirtualization)
 * [Xen](https://wiki.xenproject.org/wiki/Main_Page)
 
+## Version Control
+* [Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
