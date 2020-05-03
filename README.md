@@ -4,6 +4,7 @@
 * [The Paper Trail](https://www.the-paper-trail.org/)
 * [FLP result (Paper Trail)](https://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/)
 * [Raft](https://raft.github.io/)
+* [SWIM membership](https://www.brianstorti.com/swim/)
 
 ## Parallel Computing
 * [Learning SIMD (Rust)](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3)
