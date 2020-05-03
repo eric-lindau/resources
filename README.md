@@ -33,9 +33,9 @@
 * [Paravirtualization](https://www.sciencedirect.com/topics/computer-science/paravirtualization)
 * [Xen](https://wiki.xenproject.org/wiki/Main_Page)
 
-## Version Control
-* [Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-
 ## DS&A
 * [Radix tree](https://en.wikipedia.org/wiki/Radix_tree)
 * [Huffman (lossless)](https://en.wikipedia.org/wiki/Huffman_coding)
+
+## Software Engineering
+* [Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
