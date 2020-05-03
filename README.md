@@ -8,6 +8,7 @@
 
 ## Security
 * [shell-storm](http://shell-storm.org/shellcode/)
+* [PLT/GOT](https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)
 
 ## Parallel Computing
 * [Learning SIMD (Rust)](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3)
