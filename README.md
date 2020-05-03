@@ -2,6 +2,7 @@
 * [Consistency Models -- Jepsen](https://jepsen.io/consistency)
 * [Bounded Load Consistent Hashing](https://ai.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html?m=1)
 * [The Paper Trail](https://www.the-paper-trail.org/)
+* [FLP result (Paper Trail)](https://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/)
 * [Raft Consensus](https://raft.github.io/raft.pdf)
 
 ## Parallel Computing
