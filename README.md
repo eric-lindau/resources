@@ -6,6 +6,7 @@
 * [Raft](https://raft.github.io/)
 * [SWIM membership](https://www.brianstorti.com/swim/)
 * [Hystrix fault tolerance](https://netflixtechblog.com/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a)
+* [Practical BFT](https://www.usenix.org/legacy/events/osdi99/full_papers/castro/castro_html/castro.html)
 
 ## Security
 * [shell-storm](http://shell-storm.org/shellcode/)
