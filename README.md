@@ -2,6 +2,7 @@
 * [Consistency Models -- Jepsen](https://jepsen.io/consistency)
 * [Bounded Load Consistent Hashing](https://ai.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html?m=1)
 * [The Paper Trail](https://www.the-paper-trail.org/)
+* [Raft Consensus](https://raft.github.io/raft.pdf)
 
 ## Parallel Computing
 * [Learning SIMD (Rust)](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3)
