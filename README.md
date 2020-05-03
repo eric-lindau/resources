@@ -21,6 +21,7 @@
 
 ## Programming Languages
 * [Haskell](http://learnyouahaskell.com/chapters)
+* [Rust dangerous](http://cliffle.com/p/dangerust/)
 
 ## Containers
 * [moby project](https://mobyproject.org/)
