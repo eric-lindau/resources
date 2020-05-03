@@ -5,6 +5,7 @@
 * [FLP result (Paper Trail)](https://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/)
 * [Raft](https://raft.github.io/)
 * [SWIM membership](https://www.brianstorti.com/swim/)
+* [Hystrix fault tolerance](https://netflixtechblog.com/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a)
 
 ## Security
 * [shell-storm](http://shell-storm.org/shellcode/)
