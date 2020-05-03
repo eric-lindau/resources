@@ -9,3 +9,6 @@
 ## Operating Systems
 * [OSDev](https://wiki.osdev.org/Main_Page)
 
+## Programming Languages
+* [Haskell](http://learnyouahaskell.com/chapters)
+
