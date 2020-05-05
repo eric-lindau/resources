@@ -11,6 +11,7 @@
 
 ## Networking
 * [OpenVPN CA setup](https://openvpn.net/community-resources/setting-up-your-own-certificate-authority-ca/)
+* [Linux raw sockets](http://squidarth.com/networking/systems/rc/2018/05/28/using-raw-sockets.html)
 
 ## Security
 * [shell-storm](http://shell-storm.org/shellcode/)
@@ -28,10 +29,12 @@
 * [mmapped IO](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch14s03.html)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 * [Anatomy of a syscall part 1](https://lwn.net/Articles/604287/) / [part2](https://lwn.net/Articles/604515/)
+* [Linking/loading](http://www.cs.fsu.edu/~baker/opsys/notes/linking.html)
 
 ## Programming Languages
 * [Haskell](http://learnyouahaskell.com/chapters)
 * [Rust dangerous](http://cliffle.com/p/dangerust/)
+* [Why OCaml?](https://www2.lib.uchicago.edu/keith/ocaml-class/why.html)
 
 ## Containers
 * [moby project](https://mobyproject.org/)
