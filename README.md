@@ -31,6 +31,7 @@
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 * [Anatomy of a syscall part 1](https://lwn.net/Articles/604287/) / [part2](https://lwn.net/Articles/604515/)
 * [Linking/loading](http://www.cs.fsu.edu/~baker/opsys/notes/linking.html)
+* [GT CS-3210](https://tc.gts3.org/cs3210/2020/spring/)
 
 ## Programming Languages
 * [Haskell](http://learnyouahaskell.com/chapters)
