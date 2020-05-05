@@ -1,4 +1,5 @@
 ## Distributed Systems
+* [Awesome DS](https://github.com/theanalyst/awesome-distributed-systems)
 * [Consistency Models -- Jepsen](https://jepsen.io/consistency)
 * [Bounded Load Consistent Hashing](https://ai.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html?m=1)
 * [The Paper Trail](https://www.the-paper-trail.org/)
@@ -46,6 +47,7 @@
 * [JWT the right way](https://stormpath.com/blog/jwt-the-right-way)
 * [Server-side service discovery](https://microservices.io/patterns/server-side-discovery.html)
 * [Reactive extensions (Rx)](https://archive.codeplex.com/?p=rx)
+* [Don't use ZooKeeper for service discovery](https://medium.com/knerd/eureka-why-you-shouldnt-use-zookeeper-for-service-discovery-4932c5c7e764)
 
 ## Hardware/Architecture
 * [x86 basics](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
