@@ -9,6 +9,9 @@
 * [Hystrix fault tolerance](https://netflixtechblog.com/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a)
 * [Practical BFT](https://www.usenix.org/legacy/events/osdi99/full_papers/castro/castro_html/castro.html)
 
+## Networking
+* [OpenVPN CA setup](https://openvpn.net/community-resources/setting-up-your-own-certificate-authority-ca/)
+
 ## Security
 * [shell-storm](http://shell-storm.org/shellcode/)
 * [PLT/GOT](https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)
