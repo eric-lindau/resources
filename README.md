@@ -22,6 +22,7 @@
 * [OSDev](https://wiki.osdev.org/Main_Page)
 * [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
 * [mmapped IO](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch14s03.html)
+* [Writing an OS in Rust](https://os.phil-opp.com/)
 
 ## Programming Languages
 * [Haskell](http://learnyouahaskell.com/chapters)
