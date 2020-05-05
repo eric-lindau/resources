@@ -35,7 +35,7 @@
 * [Haskell](http://learnyouahaskell.com/chapters)
 * [Rust dangerous](http://cliffle.com/p/dangerust/)
 * [Why OCaml?](https://www2.lib.uchicago.edu/keith/ocaml-class/why.html)
-* [Structued concurrency (Go statement harmful)](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
+* [Structued concurrency (go statement harmful)](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 
 ## Containers
 * [moby project](https://mobyproject.org/)
