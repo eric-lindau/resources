@@ -14,6 +14,7 @@
 * [PLT/GOT](https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)
 * [Bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
 * [ROP basics](http://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html)
+* [Smashing the Stack](https://insecure.org/stf/smashstack.html)
 
 ## Parallel Computing
 * [Learning SIMD (Rust)](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3)
