@@ -20,6 +20,7 @@
 * [ROP basics](http://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html)
 * [Smashing the Stack](https://insecure.org/stf/smashstack.html)
 * [Awesome sec](https://github.com/sindresorhus/awesome#security)
+* [GT CS6265](https://tc.gts3.org/cs6265/2019/tut/tut01-warmup1.html)
 
 ## Parallel Computing
 * [Learning SIMD (Rust)](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3)
