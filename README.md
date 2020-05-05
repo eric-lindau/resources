@@ -23,6 +23,7 @@
 * [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
 * [mmapped IO](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch14s03.html)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
+* [Anatomy of a syscall part 1](https://lwn.net/Articles/604287/) / [part2](https://lwn.net/Articles/604515/)
 
 ## Programming Languages
 * [Haskell](http://learnyouahaskell.com/chapters)
