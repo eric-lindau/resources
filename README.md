@@ -66,3 +66,6 @@
 ## Hardware/Architecture
 * [x86 basics](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [Maximizing memory throughput](http://codearcana.com/posts/2013/05/18/achieving-maximum-memory-bandwidth.html)
+
+## Math
+* [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
