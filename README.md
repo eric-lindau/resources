@@ -21,6 +21,9 @@
 * [Smashing the Stack](https://insecure.org/stf/smashstack.html)
 * [Awesome sec](https://github.com/sindresorhus/awesome#security)
 * [GT CS6265](https://tc.gts3.org/cs6265/2019/tut/tut01-warmup1.html)
+* [OverTheWire](https://overthewire.org/wargames/)
+* [RingZer0](https://ringzer0ctf.com/)
+* [HackTheBox](https://www.hackthebox.eu/)
 
 ## Parallel Computing / Concurrency
 * [Learning SIMD (Rust)](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3)
