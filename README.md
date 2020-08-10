@@ -24,6 +24,8 @@
 * [OverTheWire](https://overthewire.org/wargames/)
 * [RingZer0](https://ringzer0ctf.com/)
 * [HackTheBox](https://www.hackthebox.eu/)
+* [x86](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
+* [Pwnable.tw](https://pwnable.tw)
 
 ## Parallel Computing / Concurrency
 * [Learning SIMD (Rust)](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3)
