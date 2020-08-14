@@ -1,5 +1,11 @@
 # Index
 * [Distributed Systems](#distributed-systems)
+* [Networks](#networks)
+* [Security](#security)
+  * [Binary exploitation](#binary-exploitation)
+* [Virtualization(#virtualization)
+  * [Containers](#containers)
+* [DS&A](#dsa)
 
 # Distributed Systems
 * [Awesome DS](https://github.com/theanalyst/awesome-distributed-systems)
@@ -12,11 +18,12 @@
 * [Hystrix fault tolerance](https://netflixtechblog.com/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a)
 * [Practical BFT](https://www.usenix.org/legacy/events/osdi99/full_papers/castro/castro_html/castro.html)
 
-# Networking
+# Networks
 * [OpenVPN CA setup](https://openvpn.net/community-resources/setting-up-your-own-certificate-authority-ca/)
 * [Linux raw sockets](http://squidarth.com/networking/systems/rc/2018/05/28/using-raw-sockets.html)
 
 # Security
+## Binary exploitation
 * [shell-storm](http://shell-storm.org/shellcode/)
 * [PLT/GOT](https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)
 * [Bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
@@ -50,15 +57,14 @@
 * [Why OCaml?](https://www2.lib.uchicago.edu/keith/ocaml-class/why.html)
 * [Structued concurrency (go statement harmful)](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 
-# Containers
-* [moby project](https://mobyproject.org/)
-* [Michael Crosby blog](http://crosbymichael.com/)
-* [Docker components explained](http://alexander.holbreich.org/docker-components-explained/)
-
 # Virtualization
 * [Teaching Virtualization by Building a Hypervisor](http://www.cs.unc.edu/~porter/pubs/jos-vm.pdf)
 * [Paravirtualization](https://www.sciencedirect.com/topics/computer-science/paravirtualization)
 * [Xen](https://wiki.xenproject.org/wiki/Main_Page)
+## Containers
+* [moby project](https://mobyproject.org/)
+* [Michael Crosby blog](http://crosbymichael.com/)
+* [Docker components explained](http://alexander.holbreich.org/docker-components-explained/)
 
 # DS&A
 * [Radix tree](https://en.wikipedia.org/wiki/Radix_tree)
