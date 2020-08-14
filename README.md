@@ -37,7 +37,6 @@
 * [OverTheWire](https://overthewire.org/wargames/)
 * [RingZer0](https://ringzer0ctf.com/)
 * [HackTheBox](https://www.hackthebox.eu/)
-* [x86](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
 * [Pwnable.tw](https://pwnable.tw)
 
 # Parallel Computing / Concurrency
@@ -55,6 +54,7 @@
 * [ELF dynamic linking](https://www.intezer.com/blog/elf/executable-linkable-format-101-part-4-dynamic-linking/)
 ## Hardware/Architecture
 * [x86 basics](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+* [x86 guide (register diagram)](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
 * [Maximizing memory throughput](http://codearcana.com/posts/2013/05/18/achieving-maximum-memory-bandwidth.html)
 
 # Programming Languages
