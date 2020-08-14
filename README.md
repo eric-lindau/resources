@@ -26,7 +26,7 @@
 * [Linux raw sockets](http://squidarth.com/networking/systems/rc/2018/05/28/using-raw-sockets.html)
 
 # Security
-## Binary exploitation
+### Binary exploitation
 * [shell-storm](http://shell-storm.org/shellcode/)
 * [PLT/GOT](https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)
 * [Bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
@@ -52,7 +52,7 @@
 * [GT CS-3210](https://tc.gts3.org/cs3210/2020/spring/)
 * [Apple's Hypervisor docs](https://developer.apple.com/documentation/hypervisor)
 * [ELF dynamic linking](https://www.intezer.com/blog/elf/executable-linkable-format-101-part-4-dynamic-linking/)
-## Hardware/Architecture
+### Hardware/Architecture
 * [x86 basics](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [x86 guide (register diagram)](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
 * [Maximizing memory throughput](http://codearcana.com/posts/2013/05/18/achieving-maximum-memory-bandwidth.html)
@@ -67,7 +67,7 @@
 * [Teaching Virtualization by Building a Hypervisor](http://www.cs.unc.edu/~porter/pubs/jos-vm.pdf)
 * [Paravirtualization](https://www.sciencedirect.com/topics/computer-science/paravirtualization)
 * [Xen](https://wiki.xenproject.org/wiki/Main_Page)
-## Containers
+### Containers
 * [moby project](https://mobyproject.org/)
 * [Michael Crosby blog](http://crosbymichael.com/)
 * [Docker components explained](http://alexander.holbreich.org/docker-components-explained/)
