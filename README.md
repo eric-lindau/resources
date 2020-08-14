@@ -3,9 +3,12 @@
 * [Networks](#networks)
 * [Security](#security)
   * [Binary exploitation](#binary-exploitation)
-* [Virtualization(#virtualization)
+* [Parallel Computing / Concurrency](#parallel-computing-concurrency)
+* [Virtualization](#virtualization)
   * [Containers](#containers)
 * [DS&A](#dsa)
+* [Software Engineering](#software-engineering)
+* [Math](#math)
 
 # Distributed Systems
 * [Awesome DS](https://github.com/theanalyst/awesome-distributed-systems)
@@ -50,6 +53,9 @@
 * [GT CS-3210](https://tc.gts3.org/cs3210/2020/spring/)
 * [Apple's Hypervisor docs](https://developer.apple.com/documentation/hypervisor)
 * [ELF dynamic linking](https://www.intezer.com/blog/elf/executable-linkable-format-101-part-4-dynamic-linking/)
+## Hardware/Architecture
+* [x86 basics](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+* [Maximizing memory throughput](http://codearcana.com/posts/2013/05/18/achieving-maximum-memory-bandwidth.html)
 
 # Programming Languages
 * [Haskell](http://learnyouahaskell.com/chapters)
@@ -77,10 +83,6 @@
 * [Server-side service discovery](https://microservices.io/patterns/server-side-discovery.html)
 * [Reactive extensions (Rx)](https://archive.codeplex.com/?p=rx)
 * [Don't use ZooKeeper for service discovery](https://medium.com/knerd/eureka-why-you-shouldnt-use-zookeeper-for-service-discovery-4932c5c7e764)
-
-# Hardware/Architecture
-* [x86 basics](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-* [Maximizing memory throughput](http://codearcana.com/posts/2013/05/18/achieving-maximum-memory-bandwidth.html)
 
 # Math
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
