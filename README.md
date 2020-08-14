@@ -2,6 +2,7 @@
 * [Distributed Systems](#distributed-systems)
 * [Networks](#networks)
 * [Security](#security)
+  * [Crypto](#crypto)
   * [Binary exploitation](#binary-exploitation)
 * [Parallel Computing / Concurrency](#parallel-computing-concurrency)
 * [Virtualization](#virtualization)
@@ -26,6 +27,9 @@
 * [Linux raw sockets](http://squidarth.com/networking/systems/rc/2018/05/28/using-raw-sockets.html)
 
 # Security
+### Crypto
+* [Birthday attack (hashing)](https://en.wikipedia.org/wiki/Birthday_attack)
+* [Preimage attack (hashing)](https://en.wikipedia.org/wiki/Preimage_attack)
 ### Binary exploitation
 * [shell-storm](http://shell-storm.org/shellcode/)
 * [PLT/GOT](https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)
