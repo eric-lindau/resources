@@ -30,7 +30,7 @@
 ## Parallel Computing / Concurrency
 * [Learning SIMD (Rust)](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3)
 
-## Operating Systems
+## Systems
 * [OSDev](https://wiki.osdev.org/Main_Page)
 * [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
 * [mmapped IO](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch14s03.html)
@@ -39,6 +39,7 @@
 * [Linking/loading](http://www.cs.fsu.edu/~baker/opsys/notes/linking.html)
 * [GT CS-3210](https://tc.gts3.org/cs3210/2020/spring/)
 * [Apple's Hypervisor docs](https://developer.apple.com/documentation/hypervisor)
+* [ELF dynamic linking](https://www.intezer.com/blog/elf/executable-linkable-format-101-part-4-dynamic-linking/)
 
 ## Programming Languages
 * [Haskell](http://learnyouahaskell.com/chapters)
