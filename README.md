@@ -6,7 +6,9 @@
   * [Binary exploitation](#binary-exploitation)
 * [Parallel Computing / Concurrency](#parallel-computing-concurrency)
 * [Systems](#systems)
-  * [Hardware/Architecture](#hardwarearchitecture)
+  * [Hardware / Architecture](#hardwarearchitecture)
+* [Programming Languages](#programming-languages)
+  * [Rust](#rust)
 * [Virtualization](#virtualization)
   * [Containers](#containers)
 * [DS&A](#dsa)
@@ -68,6 +70,8 @@
 * [Rust dangerous](http://cliffle.com/p/dangerust/)
 * [Why OCaml?](https://www2.lib.uchicago.edu/keith/ocaml-class/why.html)
 * [Structued concurrency (go statement harmful)](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
+### Rust
+* [Traits - object safety](https://huonw.github.io/blog/2015/01/object-safety/)
 
 # Virtualization
 * [Teaching Virtualization by Building a Hypervisor](http://www.cs.unc.edu/~porter/pubs/jos-vm.pdf)
