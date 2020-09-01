@@ -5,6 +5,8 @@
   * [Crypto](#crypto)
   * [Binary exploitation](#binary-exploitation)
 * [Parallel Computing / Concurrency](#parallel-computing-concurrency)
+* [Systems](#systems)
+  * [Hardware/Architecture](#hardware-architecture)
 * [Virtualization](#virtualization)
   * [Containers](#containers)
 * [DS&A](#dsa)
