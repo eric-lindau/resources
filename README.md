@@ -6,7 +6,7 @@
   * [Binary exploitation](#binary-exploitation)
 * [Parallel Computing / Concurrency](#parallel-computing-concurrency)
 * [Systems](#systems)
-  * [Hardware/Architecture](#hardware-architecture)
+  * [Hardware/Architecture](#hardwarearchitecture)
 * [Virtualization](#virtualization)
   * [Containers](#containers)
 * [DS&A](#dsa)
