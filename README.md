@@ -96,3 +96,4 @@
 
 # Math
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+* [All about GCD](https://kconrad.math.uconn.edu/blurbs/ugradnumthy/divgcd.pdf)
