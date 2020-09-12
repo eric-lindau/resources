@@ -14,6 +14,7 @@
 * [DS&A](#dsa)
 * [Software Engineering](#software-engineering)
 * [Math](#math)
+* [Misc](#misc)
 
 # Distributed Systems
 * [Awesome DS](https://github.com/theanalyst/awesome-distributed-systems)
@@ -97,3 +98,6 @@
 # Math
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [All about GCD](https://kconrad.math.uconn.edu/blurbs/ugradnumthy/divgcd.pdf)
+
+# Misc
+* [Turing - Computing Machinery & Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
