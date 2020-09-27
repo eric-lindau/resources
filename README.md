@@ -78,6 +78,7 @@
 * [Teaching Virtualization by Building a Hypervisor](http://www.cs.unc.edu/~porter/pubs/jos-vm.pdf)
 * [Paravirtualization](https://www.sciencedirect.com/topics/computer-science/paravirtualization)
 * [Xen](https://wiki.xenproject.org/wiki/Main_Page)
+* [Hypervisor from scratch (blog)](https://nixhacker.com/developing-hypervisor-from-scratch-part-2/)
 ### Containers
 * [moby project](https://mobyproject.org/)
 * [Michael Crosby blog](http://crosbymichael.com/)
