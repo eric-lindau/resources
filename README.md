@@ -86,6 +86,7 @@
 # DS&A
 * [Radix tree](https://en.wikipedia.org/wiki/Radix_tree)
 * [Huffman (lossless)](https://en.wikipedia.org/wiki/Huffman_coding)
+* [XOR linked list](https://en.wikipedia.org/wiki/XOR_linked_list)
 
 # Software Engineering
 * [Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
