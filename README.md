@@ -14,7 +14,7 @@
 * [DS&A](#dsa)
 * [Software Engineering](#software-engineering)
 * [Math](#math)
-* [Misc](#misc)
+* [Misc - Computer Science](#misc)
 
 # Distributed Systems
 * [Awesome DS](https://github.com/theanalyst/awesome-distributed-systems)
