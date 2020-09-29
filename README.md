@@ -105,3 +105,4 @@
 # Misc
 * [Turing - Computing Machinery & Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
 * [All about SAT solvers](https://www.cs.cornell.edu/gomes/pdf/2008_gomes_knowledge_satisfiability.pdf)
+* [Wolfram - New Kind of Science](https://www.wolframscience.com/nks/)
