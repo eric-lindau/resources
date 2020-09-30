@@ -74,6 +74,10 @@
 ### Rust
 * [Traits - object safety](https://huonw.github.io/blog/2015/01/object-safety/)
 
+# Verification
+* [Verdi - Network Semantics](http://jamesrwilcox.com/NetworkSemantics.html)
+* [Verdi - simple system](http://jamesrwilcox.com/Counter.html)
+
 # Virtualization
 * [Teaching Virtualization by Building a Hypervisor](http://www.cs.unc.edu/~porter/pubs/jos-vm.pdf)
 * [Paravirtualization](https://www.sciencedirect.com/topics/computer-science/paravirtualization)
