@@ -75,6 +75,7 @@
 * [Traits - object safety](https://huonw.github.io/blog/2015/01/object-safety/)
 
 # Verification
+* [Verdi](https://verdi.uwplse.org/)
 * [Verdi - Network Semantics](http://jamesrwilcox.com/NetworkSemantics.html)
 * [Verdi - simple system](http://jamesrwilcox.com/Counter.html)
 
