@@ -31,6 +31,7 @@
 * [OpenVPN CA setup](https://openvpn.net/community-resources/setting-up-your-own-certificate-authority-ca/)
 * [Linux raw sockets](http://squidarth.com/networking/systems/rc/2018/05/28/using-raw-sockets.html)
 * [Tuning Linux network stack](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
+* [Kernel bypass](https://blog.cloudflare.com/kernel-bypass/)
 
 # Security
 ### Crypto
