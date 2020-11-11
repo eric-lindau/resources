@@ -114,3 +114,4 @@
 * [All about SAT solvers](https://www.cs.cornell.edu/gomes/pdf/2008_gomes_knowledge_satisfiability.pdf)
 * [Wolfram - New Kind of Science](https://www.wolframscience.com/nks/)
 * [Awesome courses](https://github.com/prakhar1989/awesome-courses)
+* [Lyft, OSM](https://eng.lyft.com/how-lyft-creates-hyper-accurate-maps-from-open-source-maps-and-real-time-data-8dcf9abdd46a)
