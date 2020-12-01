@@ -14,6 +14,7 @@
 * [DS&A](#dsa)
 * [Software Engineering](#software-engineering)
 * [Math](#math)
+* [Computer Vision](#computer-vision)
 * [Misc - Computer Science](#misc)
 
 # Distributed Systems
@@ -108,6 +109,9 @@
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [All about GCD](https://kconrad.math.uconn.edu/blurbs/ugradnumthy/divgcd.pdf)
 * [Course on Ergodic Theory](https://personalpages.manchester.ac.uk/staff/charles.walkden/magic/)
+
+# Computer Vision
+* [AlexNet architecture explained](https://www.learnopencv.com/understanding-alexnet/)
 
 # Misc
 * [Turing - Computing Machinery & Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
