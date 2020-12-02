@@ -112,6 +112,7 @@
 
 # Computer Vision
 * [AlexNet architecture explained](https://www.learnopencv.com/understanding-alexnet/)
+* [Simple guide on building CNNs](https://towardsdatascience.com/a-guide-for-building-convolutional-neural-networks-e4eefd17f4fd)
 
 # Misc
 * [Turing - Computing Machinery & Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
