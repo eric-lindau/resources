@@ -74,6 +74,7 @@
 * [Rust dangerous](http://cliffle.com/p/dangerust/)
 * [Why OCaml?](https://www2.lib.uchicago.edu/keith/ocaml-class/why.html)
 * [Structued concurrency (go statement harmful)](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
+* [Raco is bad](https://alex-hhh.github.io/2020/05/dependency-management-in-racket-applications.html)
 ### Rust
 * [Traits - object safety](https://huonw.github.io/blog/2015/01/object-safety/)
 
