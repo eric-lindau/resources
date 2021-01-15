@@ -15,6 +15,7 @@
 * [Software Engineering](#software-engineering)
 * [Math](#math)
 * [Computer Vision](#computer-vision)
+* [Machine Learning](#machine-learning)
 * [Misc - Computer Science](#misc)
 
 # Distributed Systems
@@ -114,6 +115,9 @@
 # Computer Vision
 * [AlexNet architecture explained](https://www.learnopencv.com/understanding-alexnet/)
 * [Simple guide on building CNNs](https://towardsdatascience.com/a-guide-for-building-convolutional-neural-networks-e4eefd17f4fd)
+
+# Machine Learning
+* [Hyper-parameter optimization](https://medium.com/criteo-engineering/hyper-parameter-optimization-algorithms-2fe447525903)
 
 # Misc
 * [Turing - Computing Machinery & Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
