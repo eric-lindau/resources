@@ -118,6 +118,7 @@
 
 # Machine Learning
 * [Hyper-parameter optimization](https://medium.com/criteo-engineering/hyper-parameter-optimization-algorithms-2fe447525903)
+* [Understanding VAEs](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 
 # Misc
 * [Turing - Computing Machinery & Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
