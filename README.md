@@ -39,6 +39,7 @@
 ### Crypto
 * [Birthday attack (hashing)](https://en.wikipedia.org/wiki/Birthday_attack)
 * [Preimage attack (hashing)](https://en.wikipedia.org/wiki/Preimage_attack)
+* [Signal and PKI](https://security.stackexchange.com/questions/139596/signal-protocol-implementations-pub-key-authentication-and-inspectability-all)
 ### Binary exploitation
 * [shell-storm](http://shell-storm.org/shellcode/)
 * [PLT/GOT](https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)
