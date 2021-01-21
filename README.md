@@ -17,6 +17,7 @@
 * [Computer Vision](#computer-vision)
 * [Machine Learning](#machine-learning)
 * [Misc - Computer Science](#misc)
+* [Urban Planning](#urban-planning)
 
 # Distributed Systems
 * [Awesome DS](https://github.com/theanalyst/awesome-distributed-systems)
@@ -127,3 +128,6 @@
 * [Wolfram - New Kind of Science](https://www.wolframscience.com/nks/)
 * [Awesome courses](https://github.com/prakhar1989/awesome-courses)
 * [Lyft, OSM](https://eng.lyft.com/how-lyft-creates-hyper-accurate-maps-from-open-source-maps-and-real-time-data-8dcf9abdd46a)
+
+# Urban Planning
+* [NY passive retrofitting](https://www.nytimes.com/2020/12/29/business/new-york-passive-house-retrofit.html)
