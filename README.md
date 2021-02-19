@@ -131,3 +131,8 @@
 
 # Urban Planning
 * [NY passive retrofitting](https://www.nytimes.com/2020/12/29/business/new-york-passive-house-retrofit.html)
+
+# To be sorted
+* [https://en.wikipedia.org/wiki/Bifurcation_diagram](https://en.wikipedia.org/wiki/Bifurcation_diagram)
+* [https://en.wikipedia.org/wiki/Feigenbaum_constants](https://en.wikipedia.org/wiki/Feigenbaum_constants)
+* [https://en.wikipedia.org/wiki/Four_color_theorem](https://en.wikipedia.org/wiki/Four_color_theorem)
