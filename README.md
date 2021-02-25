@@ -137,3 +137,5 @@
 * [https://en.wikipedia.org/wiki/Feigenbaum_constants](https://en.wikipedia.org/wiki/Feigenbaum_constants)
 * [https://en.wikipedia.org/wiki/Four_color_theorem](https://en.wikipedia.org/wiki/Four_color_theorem)
 * [https://stackoverflow.com/questions/5478933/vim-move-around-quickly-inside-of-long-line](https://stackoverflow.com/questions/5478933/vim-move-around-quickly-inside-of-long-line)
+* [https://doc.rust-lang.org/book/ch16-03-shared-state.html](https://doc.rust-lang.org/book/ch16-03-shared-state.html)
+* [https://bryce.fisher-fleig.org/strategies-for-returning-references-in-rust/](https://bryce.fisher-fleig.org/strategies-for-returning-references-in-rust/)
