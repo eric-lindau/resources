@@ -142,3 +142,6 @@
 * [https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicVAE.ipynb](https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicVAE.ipynb)
 * [https://magenta.tensorflow.org/music-vae](https://magenta.tensorflow.org/music-vae)
 * [https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html](https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html)
+* [https://www.embedded.com/device-drivers-in-user-space/](https://www.embedded.com/device-drivers-in-user-space/)
+* [https://blog.rust-lang.org/2015/05/11/traits.html](https://blog.rust-lang.org/2015/05/11/traits.html)
+* [https://stackoverflow.com/questions/43048932/why-does-the-plt-exist-in-addition-to-the-got-instead-of-just-using-the-got](https://stackoverflow.com/questions/43048932/why-does-the-plt-exist-in-addition-to-the-got-instead-of-just-using-the-got)
