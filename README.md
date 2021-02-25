@@ -139,3 +139,5 @@
 * [https://stackoverflow.com/questions/5478933/vim-move-around-quickly-inside-of-long-line](https://stackoverflow.com/questions/5478933/vim-move-around-quickly-inside-of-long-line)
 * [https://doc.rust-lang.org/book/ch16-03-shared-state.html](https://doc.rust-lang.org/book/ch16-03-shared-state.html)
 * [https://bryce.fisher-fleig.org/strategies-for-returning-references-in-rust/](https://bryce.fisher-fleig.org/strategies-for-returning-references-in-rust/)
+* [https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicVAE.ipynb](https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicVAE.ipynb)
+* [https://magenta.tensorflow.org/music-vae](https://magenta.tensorflow.org/music-vae)
