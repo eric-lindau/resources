@@ -141,3 +141,4 @@
 * [https://bryce.fisher-fleig.org/strategies-for-returning-references-in-rust/](https://bryce.fisher-fleig.org/strategies-for-returning-references-in-rust/)
 * [https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicVAE.ipynb](https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicVAE.ipynb)
 * [https://magenta.tensorflow.org/music-vae](https://magenta.tensorflow.org/music-vae)
+* [https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html](https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html)
