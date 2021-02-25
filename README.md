@@ -161,4 +161,9 @@
 * [https://en.wikipedia.org/wiki/HMAC](https://en.wikipedia.org/wiki/HMAC)
 * [https://en.wikipedia.org/wiki/Authenticated_encryption#Authenticated_encryption_with_associated_data_(AEAD)](https://en.wikipedia.org/wiki/Authenticated_encryption#Authenticated_encryption_with_associated_data_(AEAD))
 * [https://kitsu.me/posts/2020_06_01_mutex_in_async_world](https://kitsu.me/posts/2020_06_01_mutex_in_async_world)
-* 
+* [https://nanonets.com/blog/optical-flow/](https://nanonets.com/blog/optical-flow/)
+* [https://en.wikipedia.org/wiki/Cross_entropy](https://en.wikipedia.org/wiki/Cross_entropy)
+* [http://dlib.net/](http://dlib.net/)
+* [https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html)
+* [https://citizenlab.ca/](https://citizenlab.ca/)
+* [https://bryce.fisher-fleig.org/strategies-for-returning-references-in-rust/](https://bryce.fisher-fleig.org/strategies-for-returning-references-in-rust/)
