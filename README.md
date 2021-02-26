@@ -180,3 +180,6 @@
 * [https://stackoverflow.com/questions/17702936/is-a-destructor-called-when-an-object-goes-out-of-scope/17703113](https://stackoverflow.com/questions/17702936/is-a-destructor-called-when-an-object-goes-out-of-scope/17703113)
 * [https://en.wikipedia.org/wiki/WireGuard](https://en.wikipedia.org/wiki/WireGuard)
 * [https://en.wikipedia.org/wiki/Feigenbaum_constants](https://en.wikipedia.org/wiki/Feigenbaum_constants)
+* [https://capra.cs.cornell.edu/bril/intro.html](https://capra.cs.cornell.edu/bril/intro.html)
+* [https://en.wikipedia.org/wiki/Simulated_annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
+* [http://jalammar.github.io/illustrated-transformer/](http://jalammar.github.io/illustrated-transformer/)
