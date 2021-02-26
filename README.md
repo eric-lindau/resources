@@ -185,3 +185,11 @@
 * [http://jalammar.github.io/illustrated-transformer/](http://jalammar.github.io/illustrated-transformer/)
 * [http://jrmeyer.github.io/machinelearning/2017/08/18/mle.html](http://jrmeyer.github.io/machinelearning/2017/08/18/mle.html)
 * [https://github.com/tensorflow/models/tree/master/official](https://github.com/tensorflow/models/tree/master/official)
+* [https://en.wikipedia.org/wiki/Deep_belief_network](https://en.wikipedia.org/wiki/Deep_belief_network)
+* [https://vitalik.ca/general/2017/11/09/starks_part_1.html](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
+* [https://github.com/taichi-dev/taichi](https://github.com/taichi-dev/taichi)
+* [https://www.youtube.com/watch?v=B9PL__gVxLI](https://www.youtube.com/watch?v=B9PL__gVxLI)
+* [https://distill.pub/2017/feature-visualization/](https://distill.pub/2017/feature-visualization/)
+* [https://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble](https://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble)
+* [https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f](https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f)
+* 
