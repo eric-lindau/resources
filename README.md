@@ -176,3 +176,7 @@
 * [https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html](https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html)
 * [https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman)
 * [https://en.wikipedia.org/wiki/Boltzmann_distribution](https://en.wikipedia.org/wiki/Boltzmann_distribution)
+* [https://en.wikipedia.org/wiki/Riemann_sphere](https://en.wikipedia.org/wiki/Riemann_sphere)
+* [https://stackoverflow.com/questions/17702936/is-a-destructor-called-when-an-object-goes-out-of-scope/17703113](https://stackoverflow.com/questions/17702936/is-a-destructor-called-when-an-object-goes-out-of-scope/17703113)
+* [https://en.wikipedia.org/wiki/WireGuard](https://en.wikipedia.org/wiki/WireGuard)
+* [https://en.wikipedia.org/wiki/Feigenbaum_constants](https://en.wikipedia.org/wiki/Feigenbaum_constants)
