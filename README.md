@@ -192,4 +192,8 @@
 * [https://distill.pub/2017/feature-visualization/](https://distill.pub/2017/feature-visualization/)
 * [https://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble](https://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble)
 * [https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f](https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f)
-* 
+* [https://plfa.github.io/](https://plfa.github.io/)
+* [https://leanprover.github.io/](https://leanprover.github.io/)
+* [https://softwarefoundations.cis.upenn.edu/](https://softwarefoundations.cis.upenn.edu/)
+* [http://www.concrete-semantics.org/](http://www.concrete-semantics.org/)
+* [https://en.wikipedia.org/wiki/Generative_model](https://en.wikipedia.org/wiki/Generative_model)
