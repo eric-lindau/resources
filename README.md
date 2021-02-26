@@ -183,3 +183,5 @@
 * [https://capra.cs.cornell.edu/bril/intro.html](https://capra.cs.cornell.edu/bril/intro.html)
 * [https://en.wikipedia.org/wiki/Simulated_annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
 * [http://jalammar.github.io/illustrated-transformer/](http://jalammar.github.io/illustrated-transformer/)
+* [http://jrmeyer.github.io/machinelearning/2017/08/18/mle.html](http://jrmeyer.github.io/machinelearning/2017/08/18/mle.html)
+* [https://github.com/tensorflow/models/tree/master/official](https://github.com/tensorflow/models/tree/master/official)
