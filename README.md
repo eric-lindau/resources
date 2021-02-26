@@ -1,3 +1,6 @@
+### About
+I use bookmarks as a temporary buffer for things I want to read/learn about. This is more of a permanent archive for things I want to be able to readily access in the future.
+
 # Index
 * [Distributed Systems](#distributed-systems)
 * [Networks](#networks)
