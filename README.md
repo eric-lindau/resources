@@ -197,3 +197,4 @@
 * [https://softwarefoundations.cis.upenn.edu/](https://softwarefoundations.cis.upenn.edu/)
 * [http://www.concrete-semantics.org/](http://www.concrete-semantics.org/)
 * [https://en.wikipedia.org/wiki/Generative_model](https://en.wikipedia.org/wiki/Generative_model)
+* [https://microkerneldude.wordpress.com/2008/04/03/microkernels-vs-hypervisors/#targetText=By%20definition%20(the%20generality%20requirement,used%20to%20implement%20a%20hypervisor.&targetText=As%20said%20above%2C%20a%20hypervisor,certainly%20result%20in%20sucking%20performance).](https://microkerneldude.wordpress.com/2008/04/03/microkernels-vs-hypervisors/#targetText=By%20definition%20(the%20generality%20requirement,used%20to%20implement%20a%20hypervisor.&targetText=As%20said%20above%2C%20a%20hypervisor,certainly%20result%20in%20sucking%20performance).)
