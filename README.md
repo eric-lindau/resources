@@ -211,3 +211,4 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [https://netflixtechblog.com/reactive-programming-in-the-netflix-api-with-rxjava-7811c3a1496a](https://netflixtechblog.com/reactive-programming-in-the-netflix-api-with-rxjava-7811c3a1496a)
 * [https://software.intel.com/content/www/us/en/develop/articles/introduction-to-x64-assembly.html](https://software.intel.com/content/www/us/en/develop/articles/introduction-to-x64-assembly.html)
 * [https://en.wikipedia.org/wiki/Linux_kernel_interfaces](https://en.wikipedia.org/wiki/Linux_kernel_interfaces)
+* [https://openai.com/blog/dall-e/](https://openai.com/blog/dall-e/)
