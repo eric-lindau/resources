@@ -219,3 +219,4 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [https://github.com/ethereum/eips/issues/998](https://github.com/ethereum/eips/issues/998)
 * [https://www.johndcook.com/blog/2017/01/10/probability-of-secure-hash-collisions/](https://www.johndcook.com/blog/2017/01/10/probability-of-secure-hash-collisions/)
 * [https://awesome.ipfs.io/](https://awesome.ipfs.io/)
+* [https://killcord.io/](https://killcord.io/)
