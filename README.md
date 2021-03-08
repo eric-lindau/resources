@@ -220,3 +220,4 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [https://www.johndcook.com/blog/2017/01/10/probability-of-secure-hash-collisions/](https://www.johndcook.com/blog/2017/01/10/probability-of-secure-hash-collisions/)
 * [https://awesome.ipfs.io/](https://awesome.ipfs.io/)
 * [https://killcord.io/](https://killcord.io/)
+* [https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html(https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
