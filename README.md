@@ -215,3 +215,5 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [https://www.nytimes.com/2021/02/28/business/heidelberg-cars-environment.html](https://www.nytimes.com/2021/02/28/business/heidelberg-cars-environment.html)
 * [https://en.wikipedia.org/wiki/Vulkan_(API)](https://en.wikipedia.org/wiki/Vulkan_(API))
 * [https://en.wikipedia.org/wiki/OpenGL_Shading_Language](https://en.wikipedia.org/wiki/OpenGL_Shading_Language)
+* [https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)
+* [https://github.com/ethereum/eips/issues/998](https://github.com/ethereum/eips/issues/998)
