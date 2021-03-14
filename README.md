@@ -129,6 +129,7 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [http://amid.fish/reproducing-deep-rl](http://amid.fish/reproducing-deep-rl)
 * [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [https://distill.pub/2016/augmented-rnns/](https://distill.pub/2016/augmented-rnns/)
+* [http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 # Misc
 * [Turing - Computing Machinery & Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
