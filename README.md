@@ -222,3 +222,4 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [https://killcord.io/](https://killcord.io/)
 * [https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
 * [http://amid.fish/reproducing-deep-rl](http://amid.fish/reproducing-deep-rl)
+* [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
