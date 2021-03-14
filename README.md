@@ -111,6 +111,8 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [Server-side service discovery](https://microservices.io/patterns/server-side-discovery.html)
 * [Reactive extensions (Rx)](https://archive.codeplex.com/?p=rx)
 * [Don't use ZooKeeper for service discovery](https://medium.com/knerd/eureka-why-you-shouldnt-use-zookeeper-for-service-discovery-4932c5c7e764)
+* [https://medium.com/@natemurthy/rest-rpc-and-brokered-messaging-b775aeb0db3](https://medium.com/@natemurthy/rest-rpc-and-brokered-messaging-b775aeb0db3)
+* [https://netflixtechblog.com/reactive-programming-in-the-netflix-api-with-rxjava-7811c3a1496a](https://netflixtechblog.com/reactive-programming-in-the-netflix-api-with-rxjava-7811c3a1496a)
 
 # Math
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
@@ -124,6 +126,9 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 # Machine Learning
 * [Hyper-parameter optimization](https://medium.com/criteo-engineering/hyper-parameter-optimization-algorithms-2fe447525903)
 * [Understanding VAEs](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+* [http://amid.fish/reproducing-deep-rl](http://amid.fish/reproducing-deep-rl)
+* [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [https://distill.pub/2016/augmented-rnns/](https://distill.pub/2016/augmented-rnns/)
 
 # Misc
 * [Turing - Computing Machinery & Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
@@ -207,8 +212,6 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [https://manybutfinite.com/post/kernel-boot-process/](https://manybutfinite.com/post/kernel-boot-process/)
 * [https://manishearth.github.io/blog/2018/01/10/whats-tokio-and-async-io-all-about/?fbclid=IwAR0zekgCYx_HGuCOMod3YWw3Vkz0OLSCju-qNnmfls1bbUICvOe3qmniBxA](https://manishearth.github.io/blog/2018/01/10/whats-tokio-and-async-io-all-about/?fbclid=IwAR0zekgCYx_HGuCOMod3YWw3Vkz0OLSCju-qNnmfls1bbUICvOe3qmniBxA)
 * [https://www.kernel.org/doc/html/v4.14/driver-api/uio-howto.html](https://www.kernel.org/doc/html/v4.14/driver-api/uio-howto.html)
-* [https://medium.com/@natemurthy/rest-rpc-and-brokered-messaging-b775aeb0db3](https://medium.com/@natemurthy/rest-rpc-and-brokered-messaging-b775aeb0db3)
-* [https://netflixtechblog.com/reactive-programming-in-the-netflix-api-with-rxjava-7811c3a1496a](https://netflixtechblog.com/reactive-programming-in-the-netflix-api-with-rxjava-7811c3a1496a)
 * [https://software.intel.com/content/www/us/en/develop/articles/introduction-to-x64-assembly.html](https://software.intel.com/content/www/us/en/develop/articles/introduction-to-x64-assembly.html)
 * [https://en.wikipedia.org/wiki/Linux_kernel_interfaces](https://en.wikipedia.org/wiki/Linux_kernel_interfaces)
 * [https://openai.com/blog/dall-e/](https://openai.com/blog/dall-e/)
@@ -221,5 +224,3 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [https://awesome.ipfs.io/](https://awesome.ipfs.io/)
 * [https://killcord.io/](https://killcord.io/)
 * [https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
-* [http://amid.fish/reproducing-deep-rl](http://amid.fish/reproducing-deep-rl)
-* [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
