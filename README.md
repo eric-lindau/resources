@@ -227,3 +227,4 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
 * [https://blog.regehr.org/](https://blog.regehr.org/)
 * [https://jmtomczak.github.io/blog.html](https://jmtomczak.github.io/blog.html)
+* [https://stackoverflow.com/questions/15548023/clang-optimization-levels](https://stackoverflow.com/questions/15548023/clang-optimization-levels)
