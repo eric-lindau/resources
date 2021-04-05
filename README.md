@@ -83,6 +83,8 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [Raco is bad](https://alex-hhh.github.io/2020/05/dependency-management-in-racket-applications.html)
 ### Rust
 * [Traits - object safety](https://huonw.github.io/blog/2015/01/object-safety/)
+* [https://os.phil-opp.com/](https://os.phil-opp.com/)
+* [https://docs.rs/persistence/0.0.5/persistence/](https://docs.rs/persistence/0.0.5/persistence/)
 
 # Verification
 * [Verdi](https://verdi.uwplse.org/)
@@ -118,6 +120,9 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [All about GCD](https://kconrad.math.uconn.edu/blurbs/ugradnumthy/divgcd.pdf)
 * [Course on Ergodic Theory](https://personalpages.manchester.ac.uk/staff/charles.walkden/magic/)
+* [https://en.wikipedia.org/wiki/Bifurcation_diagram](https://en.wikipedia.org/wiki/Bifurcation_diagram)
+* [https://en.wikipedia.org/wiki/Feigenbaum_constants](https://en.wikipedia.org/wiki/Feigenbaum_constants)
+* [https://en.wikipedia.org/wiki/Four_color_theorem](https://en.wikipedia.org/wiki/Four_color_theorem)
 
 # Computer Vision
 * [AlexNet architecture explained](https://www.learnopencv.com/understanding-alexnet/)
@@ -129,7 +134,7 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [http://amid.fish/reproducing-deep-rl](http://amid.fish/reproducing-deep-rl)
 * [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [https://distill.pub/2016/augmented-rnns/](https://distill.pub/2016/augmented-rnns/)
-* [http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+* [Visualizing Neural Networks (Topology)](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 # Misc
 * [Turing - Computing Machinery & Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
@@ -142,9 +147,6 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [NY passive retrofitting](https://www.nytimes.com/2020/12/29/business/new-york-passive-house-retrofit.html)
 
 # To be sorted
-* [https://en.wikipedia.org/wiki/Bifurcation_diagram](https://en.wikipedia.org/wiki/Bifurcation_diagram)
-* [https://en.wikipedia.org/wiki/Feigenbaum_constants](https://en.wikipedia.org/wiki/Feigenbaum_constants)
-* [https://en.wikipedia.org/wiki/Four_color_theorem](https://en.wikipedia.org/wiki/Four_color_theorem)
 * [https://stackoverflow.com/questions/5478933/vim-move-around-quickly-inside-of-long-line](https://stackoverflow.com/questions/5478933/vim-move-around-quickly-inside-of-long-line)
 * [https://doc.rust-lang.org/book/ch16-03-shared-state.html](https://doc.rust-lang.org/book/ch16-03-shared-state.html)
 * [https://bryce.fisher-fleig.org/strategies-for-returning-references-in-rust/](https://bryce.fisher-fleig.org/strategies-for-returning-references-in-rust/)
@@ -156,15 +158,12 @@ I use bookmarks as a temporary buffer for things I want to read/learn about. Thi
 * [https://stackoverflow.com/questions/43048932/why-does-the-plt-exist-in-addition-to-the-got-instead-of-just-using-the-got](https://stackoverflow.com/questions/43048932/why-does-the-plt-exist-in-addition-to-the-got-instead-of-just-using-the-got)
 * [https://blog.cloudflare.com/kernel-bypass/](https://blog.cloudflare.com/kernel-bypass/)
 * [https://www.hackthebox.eu/](https://www.hackthebox.eu/)
-* [https://os.phil-opp.com/](https://os.phil-opp.com/)
 * [https://amfarahmand.github.io/csc311/](https://amfarahmand.github.io/csc311/)
-* [https://docs.rs/persistence/0.0.5/persistence/](https://docs.rs/persistence/0.0.5/persistence/)
 * [https://blog.quantinsti.com/algorithmic-trading-strategies/](https://blog.quantinsti.com/algorithmic-trading-strategies/)
 * [https://www.cs.brandeis.edu/~cs146a/rust/doc-02-21-2015/book/static-and-dynamic-dispatch.html](https://www.cs.brandeis.edu/~cs146a/rust/doc-02-21-2015/book/static-and-dynamic-dispatch.html)
 * [https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism)
 * [https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers#pings_and_pongs_the_heartbeat_of_websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers#pings_and_pongs_the_heartbeat_of_websockets)
 * [https://en.wikipedia.org/wiki/Residual_neural_network](https://en.wikipedia.org/wiki/Residual_neural_network)
-* [https://en.wikipedia.org/wiki/Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
 * [https://en.wikipedia.org/wiki/Bayes_error_rate](https://en.wikipedia.org/wiki/Bayes_error_rate)
 * [https://en.wikipedia.org/wiki/IPsec](https://en.wikipedia.org/wiki/IPsec)
 * [https://en.wikipedia.org/wiki/HMAC](https://en.wikipedia.org/wiki/HMAC)
